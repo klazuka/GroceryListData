@@ -1,2 +1,1 @@
-~GroceryListData~
 Basmati rice
