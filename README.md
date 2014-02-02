@@ -1,4 +1,4 @@
-Basmati rice
+~Basmati rice~
 Blah
 ginger
 tahini
